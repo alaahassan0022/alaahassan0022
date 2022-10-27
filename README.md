@@ -8,7 +8,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
  -->
-<h3> About Me </h3>
+<h3> About me: </h3>
 
 - 🎓 &nbsp; I am a Software Engineering fresh graduate from the Faculty of Computer and Information Sciences, Ain Shams University, Cairo, Egypt, Class of 2022.
 - 🔭 &nbsp; I am currently learning Java Spring Boot Backend Framework and Angular Frontend Framework.
