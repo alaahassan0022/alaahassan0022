@@ -18,7 +18,7 @@
 &nbsp;
 <br>
 
-### Some Technologies I know about:
+### Some technologies I know about:
 
 
 <p>
