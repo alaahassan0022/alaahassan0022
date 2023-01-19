@@ -11,8 +11,8 @@
 <h3> About me: </h3>
 
 - 🎓 &nbsp; I am a Software Engineering fresh graduate from the Faculty of Computer and Information Sciences, Ain Shams University, Cairo, Egypt, Class of 2022.
-- 🔭 &nbsp; I am currently learning Java Spring Boot Backend Framework and Angular Frontend Framework.
-- 💼 &nbsp; I am actively looking for an opportunity to learn and expand my practical knowledge in the software development field.
+- 🔭 &nbsp; I am currently working with Java Spring Boot Backend Framework and Angular Frontend Framework.
+<!-- - 💼 &nbsp; I am actively looking for an opportunity to learn and expand my practical knowledge in the software development field. -->
 <!-- - ✍️ &nbsp; I believe that learning well and helping others learn well is the funde -->
 - Contact me at: __alaahassan0022@gmail.com__
 &nbsp;
